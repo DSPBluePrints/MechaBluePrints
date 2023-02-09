@@ -16,13 +16,13 @@ The blueprint warehouse has integrated Git and automatic update scripts, which c
 
 ### 第一次下载 | First Download
 
-1. 在电脑上打开github上的蓝图仓库主页: https://github.com/DSPBluePrints/MechaBluePrints <br> Open the blueprint warehouse homepage on github on your computer: https://github.com/
-2. 从这个页面->[**Releases**](https://github.com/DSPBluePrints/MechaBluePrints/releases)<-，下载最新的蓝图包，文件名应该叫`MechBluePrints_X.Y.Z.7z`，请**不要**从绿色的Code处下载，那样文件不！完！整！<br> From this page -> [**Releases**](https://github.com/DSPBluePrints/MechaBluePrints/releases), download the latest blueprint package, the file name should be called MechaBluePrints_X.Y.Z.7z, please do not download from the green Code, as this does not include all files!
-3. 解压后，像其他普通的蓝图包一样，放入游戏的默认蓝图文件夹。放进去以后应该是这样：`C:\Users\％用户资料％\Documents\Dyson Sphere Program\Blueprint\MechaBluePrints\README.md` <br> After decompression, put it into the game's default blueprint folder like any other normal blueprint package. After putting it in, it should look like this: C:\Users\\%userprofile%\Documents\Dyson Sphere Program\Blueprint\MechaBluePrints\README.md
+1. 在电脑上打开github上的蓝图仓库主页: `https://github.com/DSPBluePrints/MechaBluePrints` <br> Open the blueprint warehouse homepage on github on your computer: `https://github.com/DSPBluePrints/MechaBluePrints`
+2. 从这个页面->[**Releases**](https://github.com/DSPBluePrints/MechaBluePrints/releases)<-，下载最新的蓝图包，文件名应该叫`MechBluePrints_X.Y.Z.7z`，请**不要**从绿色的Code处下载，那样文件不！完！整！<br> From this page -> [**Releases**](https://github.com/DSPBluePrints/MechaBluePrints/releases), download the latest blueprint package, the file name should be called `MechaBluePrints_X.Y.Z.7z`, please **do not** download from the green Code, **as this does not include all files**!
+3. 解压后，像其他普通的蓝图包一样，放入游戏的默认蓝图文件夹。放进去以后应该是这样：`C:\Users\％用户名称％\Documents\Dyson Sphere Program\Blueprint\MechaBluePrints\README.md` <br> After decompression, put it into the game's default blueprint folder like any other normal blueprint package. After putting it in, it should look like this: `C:\Users\%username%\Documents\Dyson Sphere Program\Blueprint\MechaBluePrints\README.md`
 
 ### 更新 | Update
 
-1. 只需双击即可：`双击更新蓝图仓库.bat` | Run `update.bat`
+1. 只需双击即可：`update.bat` | Run `update.bat`
 
 > Q: 为什么我打不开蓝图仓库主页 / 下载特别慢 / 更新特别慢？<br> Why can't I open the homepage of the blueprint warehouse / the download is very slow / the update is very slow?<br>
 > A: 通常是网络问题。蓝图仓库被托管在github上，可以通过在[Watt Toolkit](https://steampp.net)(原名steam++)中开启github加速服务解决。~~或者魔法？~~ <br> Usually it is a network problem. The blueprint repository is hosted on github, which can be solved by enabling the github acceleration service in Watt Toolkit (formerly known as steam++). ~~Or magic?~~
@@ -49,7 +49,7 @@ Then enter the game, click **New Empty Blueprint** on the blueprint page, **Past
 
 > 常见问题：| Common Problem:
 > Q: 为什么蓝图仓库网页打开特别慢，我该怎么办？<br> Why is the blueprint warehouse web page very slow to open, what should I do?
-> A: 蓝图仓库被托管在github上，可以通过在[Watt Toolkit](https://steampp.net)(原名steam++)中开启github加速服务解决。~~或者魔法？~~ <br> The blueprint repository is hosted on github, which can be resolved by enabling the github acceleration service in [Watt Toolkit](https://steampp.net) (formerly known as steam++). ~~Or magic?~~
+> A: 蓝图仓库被托管在github上，可以通过在[Watt Toolkit](https://steampp.net)(原名steam++)中开启github加速服务解决。~~或者魔法？~~ <br> The blueprint repository is hosted on github, which can be resolved by enabling the github acceleration service in [Watt Toolkit](https://steampp.net) (formerly known as steam++). ~~Or magic?~~  ~~only china~~
 
 #### 进阶用法 | Advanced Usage
 
@@ -74,7 +74,7 @@ git pull origin main
 ```
 -->
 
-## 协议 | Protocol
+## 协议 | license
 
 1. 如果蓝图作者对自己的蓝图发布使用协议，则自从使用协议发布起，对相关蓝图使用蓝图作者发布的使用协议。<br> If the blueprint author publishes a usage agreement for his own blueprint, the usage agreement published by the blueprint author will be used for the relevant blueprint since the usage agreement is published.
-2. 若无特殊声明，蓝图仓库内的一切蓝图及其他文件使用默认协议：**知识共享 署名-非商业性使用-相同方式共享 4.0 国际(CC BY-NC-SA 4.0)**。<br> Unless otherwise stated, all blueprints and other files in the blueprint warehouse use the default license: Creative Commons Attribution-Noncommercial Use-Share Alike 4.0 International (CC BY-NC-SA 4.0).
+2. 若无特殊声明，蓝图仓库内的一切蓝图及其他文件使用默认协议：**知识共享 署名-非商业性使用-相同方式共享 4.0 国际(CC BY-NC-SA 4.0)**。<br> Unless otherwise stated, all blueprints and other files in the blueprint warehouse use the default license: **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
