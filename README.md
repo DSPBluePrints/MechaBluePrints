@@ -19,7 +19,7 @@ The blueprint warehouse has integrated Git and automatic update scripts, which c
 1. 在电脑上打开github上的蓝图仓库主页: `https://github.com/DSPBluePrints/MechaBluePrints` <br> Open the blueprint warehouse homepage on github on your computer: `https://github.com/DSPBluePrints/MechaBluePrints`
 2. 从这个页面->[**Releases**](https://github.com/DSPBluePrints/MechaBluePrints/releases)<-，下载最新的蓝图包，文件名应该叫`MechBluePrints_X.Y.Z.7z`，请**不要**从绿色的Code处下载，那样文件不！完！整！<br> From this page -> [**Releases**](https://github.com/DSPBluePrints/MechaBluePrints/releases), download the latest blueprint package, the file name should be called `MechaBluePrints_X.Y.Z.7z`, please **do not** download from the green Code, **as this does not include all files**!
 3. 解压后，放入游戏的默认机甲蓝图文件夹。放进去以后应该是这样：`C:\Users\％用户名称％\Documents\Dyson Sphere Program\Customize\Mecha\MechaBluePrints\README.md` <br> After decompression, put it into the game's default Mecha blueprint folder. After putting it in, it should look like this: `C:\Users\%username%\Documents\Dyson Sphere Program\Customize\Mecha\MechaBluePrints\README.md`
-4. 
+
 ### 更新 | Update
 
 1. 只需双击即可：`update.bat` | Run `update.bat`
